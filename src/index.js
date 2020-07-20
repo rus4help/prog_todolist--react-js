@@ -38,7 +38,7 @@ const App = () => {
             <SearchPanel />
             <TodoList />
         </div>
-    );
+    )
 }
 
 ReactDOM.render(<App />, document.getElementById('root'))
